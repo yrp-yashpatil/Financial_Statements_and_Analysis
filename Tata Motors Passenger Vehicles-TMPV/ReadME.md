@@ -1,5 +1,6 @@
 # Tata Motors Passenger Vehicles
-*NSE: TMPV* *BSE:  500570*
+*NSE: TMPV* 
+*BSE:  500570*
 
 ---
 
